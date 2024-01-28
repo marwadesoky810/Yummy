@@ -15,7 +15,9 @@ body{
 i{
     cursor: pointer;
 }
-
+::placeholder{
+    color: rgba(199, 196, 196, 0.675) !important;
+}
 .meal-layer{
     width: 100%;
     height: 100%;
